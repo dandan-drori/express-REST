@@ -6,13 +6,6 @@
 
 ### User
 
-{
-  id: String,
-  name: String,
-  email: String,
-  password: String
-}
-
 |  field   |  Type  |
 | -------- | ------ |
 | Id       | String |
@@ -28,7 +21,10 @@
 
 ## Available Methods
 
-* GET
-* POST
-* DELETE
-* PATCH
+| Http Method | Supported |
+| ----------- | --------- |
+|    GET      |   - [x]   |
+|    POST     |   - [X]   |
+|    DELETE   |   - [X]   |
+|    PATCH    |   - [X]   |
+|    PUT      |   - [ ]   |
