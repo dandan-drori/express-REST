@@ -23,7 +23,7 @@
 
 | Http Method | Supported |
 | ----------- | --------- |
-|    GET      |   - [x]   |
+|    GET      |<ul><li>- [x]</li></ul>|
 |    POST     |   - [X]   |
 |    DELETE   |   - [X]   |
 |    PATCH    |   - [X]   |
