@@ -21,10 +21,10 @@
 
 ## Available Methods
 
-| Http Method | Supported |
-| ----------- | --------- |
-|    GET      | :heavy_check_mark: |
-|    POST     | :heavy_check_mark: |
-|    DELETE   |   - [X]   |
-|    PATCH    |   - [X]   |
-|    PUT      |   - [ ]   |
+| Http Method | Supported   |
+| ----------- | :---------: |
+|    GET      |      ✔️      |
+|    POST     |      ✔️      |
+|    DELETE   |      ✔️      |
+|    PATCH    |      ✔️      |
+|    PUT      |      ❌     |
