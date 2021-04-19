@@ -1,7 +1,6 @@
 # express-REST
 
-## currently handles authentication of users for a react app, by enabling the use of \
-   login, signup and signout.
+## currently handles authentication of users for a react app, by enabling the use of login, signup and signout.
 
 ## Data Model
 
