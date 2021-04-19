@@ -23,8 +23,8 @@
 
 | Http Method | Supported |
 | ----------- | --------- |
-|    GET      |<ul><li>- [x]</li></ul>|
-|    POST     |   - [X]   |
+|    GET      | :heavy_check_mark: |
+|    POST     | :heavy_check_mark: |
 |    DELETE   |   - [X]   |
 |    PATCH    |   - [X]   |
 |    PUT      |   - [ ]   |
