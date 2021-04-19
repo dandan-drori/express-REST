@@ -13,6 +13,14 @@
   password: String
 }
 
+field | Type
+------------
+Id | String
+Name | String
+Email | String
+Password | String
+
+
 ## Available Routes
 
 * /users
